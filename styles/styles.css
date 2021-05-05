@@ -73,3 +73,24 @@ footer{
 #page-title{
 
 }
+
+/* ------------- */
+/* Media Rules */
+/* ------------- */
+/*tables/ipads*/
+@media only screen and (max-width: 768px){
+    .col-1, .col-3{
+        width: 25%;
+    }
+
+    .col-2{
+        width: 50%;
+    }
+}
+
+
+@media only screen and (max-width: 767px){
+    [class*="col-"]{
+        width: 100%;
+    }
+}
