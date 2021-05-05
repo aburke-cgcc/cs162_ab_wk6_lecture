@@ -34,15 +34,15 @@ header h1{
 }
 
 .col-1{
-    
+    width: 25%;
 }
 
 .col-2{
-    
+    width: 55%;
 }
 
 .col-3{
-    
+    width: 20%;
 }
 
 .side-info{
