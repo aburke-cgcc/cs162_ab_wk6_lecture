@@ -4,5 +4,12 @@ html{
 
 header{
     height: 200px;
+    width: 100%;
     background-color: cadetblue;
+
+}
+
+header h1{
+    /* width: 5vw; //TODO: revisit fixing size of text to container*/
+    text-align: center;
 }
