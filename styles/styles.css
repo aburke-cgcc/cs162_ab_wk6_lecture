@@ -43,6 +43,20 @@ footer{
     width: 25%;
 }
 
+/* menu items */
+.col-1 ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.col-1 ul li{
+    padding: 8px;
+    margin-bottom: 4px;
+    background-color: cornflowerblue;
+    color: white;
+}
+
 .col-2{
     width: 55%;
 }
