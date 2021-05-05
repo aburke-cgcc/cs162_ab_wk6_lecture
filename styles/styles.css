@@ -23,6 +23,12 @@ header h1{
     padding: 15px;
 }
 
+footer{
+    text-align: center;
+    padding: 15px;
+    background-color: cadetblue;
+}
+
 /* ------------- */
 /* Class Selectors */
 /* ------------- */
