@@ -2,6 +2,10 @@
     box-sizing: border-box;
 }
 
+/* ------------- */
+/* Tag Selectors */
+/* ------------- */
+
 html{
     font-family: sans-serif;
 }
@@ -17,4 +21,35 @@ header h1{
     /* width: 5vw; //TODO: revisit fixing size of text to container*/
     text-align: center;
     padding: 15px;
+}
+
+/* ------------- */
+/* Class Selectors */
+/* ------------- */
+
+.row{
+
+}
+
+.col-1{
+
+}
+
+.col-2{
+    
+}
+
+.col-3{
+    
+}
+
+.side-info{
+
+}
+
+/* ------------- */
+/* ID Selectors */
+/* ------------- */
+#page-title{
+    
 }
