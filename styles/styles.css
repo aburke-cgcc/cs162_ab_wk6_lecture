@@ -51,10 +51,21 @@ footer{
 }
 
 .col-1 ul li{
+}
+
+
+.col-1 ul li a:hover{
+    background-color:dimgray;
+}
+
+.col-1 ul li a{
+    width: 100%;
     padding: 8px;
     margin-bottom: 4px;
-    background-color: cornflowerblue;
+    display: block;
     color: white;
+    text-decoration: none;
+    background-color: cornflowerblue;
 }
 
 .col-2{
